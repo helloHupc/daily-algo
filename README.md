@@ -24,7 +24,7 @@
 
 AI 助手直接嵌入在 Obsidian 中，能读写笔记文件，理解 Markdown 和 Wiki 链接。每次对话都带着当前笔记的上下文，给出的解答天然针对你的背景。
 
-具体的工作流介绍见：[刷 LeetCode 效率翻倍：在 Obsidian 里用 AI 助手解题的工作流](./刷%20LeetCode%20效率翻倍：在%20Obsidian%20里用%20AI%20助手解题的工作流.md)
+具体的工作流介绍见：[Obsidian + Claudian，我的 LeetCode 刷题搭子](https://mp.weixin.qq.com/s/C732tgilInuHtTQxSF2iPw)
 
 ## AGENTS.md 是什么？
 
